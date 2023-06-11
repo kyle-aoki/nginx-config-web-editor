@@ -1,0 +1,4 @@
+node_modules
+nginx-config-web-editor
+cfg.yaml
+.DS_Store
